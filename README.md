@@ -8,4 +8,5 @@ estos archivos contienen:
 - No se hace carga de datos, entonces el proceso ETL no está completo en estos archivos.
 - Se presentan los datos transformados en dashboards interactivos.
 
-- https://github.com/DarwinR18/PythonCienciaDatos/blob/6329f842c045215b0dd7141193a6331f45af3a81/DashBoard%3A%20Caso%20de%20Uso.png
+- (https://github.com/user-attachments/assets/ea71a1eb-7926-4f57-b066-c2c2ae0cf4bd)
+
