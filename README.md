@@ -8,5 +8,6 @@ estos archivos contienen:
 - No se hace carga de datos, entonces el proceso ETL no está completo en estos archivos.
 - Se presentan los datos transformados en dashboards interactivos.
 
-- (https://github.com/user-attachments/assets/ea71a1eb-7926-4f57-b066-c2c2ae0cf4bd)
+  ![DashBoard-Evidencia: Caso de Uso](https://github.com/user-attachments/assets/a055d2cd-11dc-4f73-82f2-f6e49f51c5bd)
+
 
