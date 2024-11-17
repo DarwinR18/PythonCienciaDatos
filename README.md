@@ -1,5 +1,5 @@
 # PythonCienciaDatos
-En el directorio encontrará dos archivos con código python y extensión ".ipynb" y de nombres "VAD_CP_S4_G2" y "VAD_CP_S3_G2", 
+En el directorio "dash-clinical-analytics_est" encontrará dos archivos con código python y extensión ".ipynb" y de nombres "VAD_CP_S4_G2" y "VAD_CP_S3_G2", 
 estos archivos contienen:
 
 - Extracción de datos de una fuente interna (archivos csv).
